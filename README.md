@@ -22,6 +22,10 @@ post - http://localhost:8888/employeeportal/employee to save an employee details
 
 {"employeeId":0,"firstName":"R","lastName":"N","gender":"M","dateOfBirth":"1900-01-16","department":"D1"}
 
+# Navigate Swagger
+
+http://localhost:8888/swagger-ui.html
+
 # Navigate Hal Browser to view Actuator reports
 
 http://localhost:8888/browser/index.html#/
